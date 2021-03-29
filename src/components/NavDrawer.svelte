@@ -14,7 +14,7 @@
 
 <NavigationDrawer {active} fixed clipped style="height: 100vh;">
     <List nav dense>
-        <Link to="/">
+        <Link to="UR_MI_FS_WS_20_21_Group_G_website">
             <ListItem>
             <span slot="prepend">
                 <Icon path={mdiHomeOutline} />
@@ -30,12 +30,12 @@
             <span slot="append">
               <Icon path={mdiChevronUp} rotate={expanded ? 0 : 180} />
             </span>
-            <Link to="visualizations/network"><ListItem>Network</ListItem></Link>
-            <Link to="/"><ListItem>Vis 2</ListItem></Link>
-            <Link to="/"><ListItem>Vis 3</ListItem></Link>
-            <Link to="/"><ListItem>Vis 4</ListItem></Link>
+            <Link to="UR_MI_FS_WS_20_21_Group_G_website/visualizations/network"><ListItem>Network</ListItem></Link>
+            <Link to="UR_MI_FS_WS_20_21_Group_G_website/"><ListItem>Vis 2</ListItem></Link>
+            <Link to="UR_MI_FS_WS_20_21_Group_G_website/"><ListItem>Vis 3</ListItem></Link>
+            <Link to="UR_MI_FS_WS_20_21_Group_G_website/"><ListItem>Vis 4</ListItem></Link>
         </ListGroup>
-        <Link to="about">
+        <Link to="UR_MI_FS_WS_20_21_Group_G_website/about">
             <ListItem>
             <span slot="prepend">
                 <Icon path={mdiInformationOutline} />

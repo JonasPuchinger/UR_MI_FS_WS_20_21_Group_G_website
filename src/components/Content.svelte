@@ -14,7 +14,7 @@
 </style>
 
 <main>
-    <Route path="/"><Home /></Route>
-    <Route path="visualizations/network"><Network /></Route>
-    <Route path="about"><About /></Route>
+    <Route path="UR_MI_FS_WS_20_21_Group_G_website"><Home /></Route>
+    <Route path="UR_MI_FS_WS_20_21_Group_G_website/visualizations/network"><Network /></Route>
+    <Route path="UR_MI_FS_WS_20_21_Group_G_website/about"><About /></Route>
 </main>
