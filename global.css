@@ -1,0 +1,20 @@
+#root {
+    height: 100%;
+}
+
+a {
+    text-decoration: none;
+}
+
+circle:hover {
+    stroke: #ffffff;
+    stroke-width: 1.5;
+}
+
+.tooltip {
+    position: absolute;
+    text-align: center;
+    padding: 2px;
+    background: lightsteelblue;
+    pointer-events: none;
+}
