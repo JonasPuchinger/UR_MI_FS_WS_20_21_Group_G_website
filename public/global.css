@@ -18,3 +18,7 @@ circle:hover {
     background: lightsteelblue;
     pointer-events: none;
 }
+
+.bb-event-rects.bb-event-rects-multiple {
+    cursor: default !important;
+}

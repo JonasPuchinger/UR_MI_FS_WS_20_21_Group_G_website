@@ -81,9 +81,10 @@
             .join('text')
             .text(d => d.association)
             .attr('x', 60)
-            .attr('y', (d, i) => 100 + i * 25)
+            .attr('y', (d, i) => 100 + i * 26)
             .attr('fill', d => d.color)
             .attr('text-anchor', 'left')
+            .attr('font-size', '18px')
             .style('alignment-baseline', 'middle');
 
         svg.call(d3.zoom()

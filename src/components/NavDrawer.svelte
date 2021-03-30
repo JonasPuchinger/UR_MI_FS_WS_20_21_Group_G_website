@@ -31,9 +31,7 @@
               <Icon path={mdiChevronUp} rotate={expanded ? 0 : 180} />
             </span>
             <Link to="UR_MI_FS_WS_20_21_Group_G_website/visualizations/network"><ListItem>Network</ListItem></Link>
-            <Link to="UR_MI_FS_WS_20_21_Group_G_website/"><ListItem>Vis 2</ListItem></Link>
-            <Link to="UR_MI_FS_WS_20_21_Group_G_website/"><ListItem>Vis 3</ListItem></Link>
-            <Link to="UR_MI_FS_WS_20_21_Group_G_website/"><ListItem>Vis 4</ListItem></Link>
+            <Link to="UR_MI_FS_WS_20_21_Group_G_website/visualizations/covid_vs_twitter"><ListItem>COVID vs Twitter</ListItem></Link>
         </ListGroup>
         <Link to="UR_MI_FS_WS_20_21_Group_G_website/about">
             <ListItem>
