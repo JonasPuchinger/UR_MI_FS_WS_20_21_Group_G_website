@@ -66,6 +66,7 @@
 		right: 1em;
 		color: var(--theme-text-primary);
 		border: 1px solid  var(--theme-text-primary);
+		background-color: var(--theme-surface);
 	}
 
 	.chart {

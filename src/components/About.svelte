@@ -26,8 +26,8 @@
     <Row class="align-center" style="height: calc((100vh - 56px - 24px) / 2);">
         <Col class="d-flex justify-center col-6 offset-3">
             <div class="d-flex flex-column align-center">
-                <a href="https://github.com/JonasPuchinger/assets/raw/master/fs_group_g_website/German_Politicians_Usage_of_Twitter_during_the_COVID_19_Pandemic.pdf">
-                    <Button class="color-primary white-text">Download Paper</Button>
+                <a target="_blank" href="https://drive.google.com/file/d/13rAvD2WbLhOUHAN0lJX3-r1aSpMpygHr/view?usp=sharing">
+                    <Button class="pink white-text">Download Paper</Button>
                 </a>
             </div>
         </Col>

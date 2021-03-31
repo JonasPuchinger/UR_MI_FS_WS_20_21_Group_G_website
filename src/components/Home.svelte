@@ -15,11 +15,11 @@
                 <Card outlined hover class="green white-text">
                     <Row class="align-center">
                         <Col class="d-flex justify-center">
-                            <Icon size="64px" path={mdiGraph} />
+                            <Icon class="white-text" size="64px" path={mdiGraph} />
                         </Col>
                     </Row>
-                    <CardTitle>Network</CardTitle>
-                    <CardSubtitle>Various network graphs showcasing the clusters of the individual Twitter accounts in our dataset</CardSubtitle>
+                    <CardTitle class="white-text">Network</CardTitle>
+                    <CardSubtitle class="white-text">Various network graphs showcasing the clusters of the individual Twitter accounts in our dataset</CardSubtitle>
                 </Card>
             </Link>
         </Col>
@@ -28,11 +28,11 @@
                 <Card outlined hover class="blue white-text">
                     <Row class="align-center">
                         <Col class="d-flex justify-center">
-                            <Icon size="64px" path={mdiChartLine} />
+                            <Icon class="white-text" size="64px" path={mdiChartLine} />
                         </Col>
                     </Row>
-                    <CardTitle>COVID vs Twitter</CardTitle>
-                    <CardSubtitle>An interactive dashboard showing the number of COVID- and non-COVID-tweets, as well as COVID-19 infections and deaths in Germany throughout 2020</CardSubtitle>
+                    <CardTitle class="white-text">COVID vs Twitter</CardTitle>
+                    <CardSubtitle class="white-text">An interactive dashboard showing the number of COVID- and non-COVID-tweets, as well as COVID-19 infections and deaths in Germany throughout 2020</CardSubtitle>
                 </Card>
             </Link>
         </Col>
